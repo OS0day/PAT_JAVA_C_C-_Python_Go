@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * by:os0day
- * title:PAT,乙等,1001 害死人不偿命的(3n+1)猜想 (15分)
+ * title:PAT,乙等,1014 福尔摩斯的约会 (20分)
  * date:2020-07-19
  */
 public class Main_1014 {
