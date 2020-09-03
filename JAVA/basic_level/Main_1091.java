@@ -17,6 +17,7 @@ public class Main_1091 {
             M = sc.nextInt();
             while (M>0){
                 System.out.println(OutPut(sc.nextInt()));
+                M--;
             }
         }
     }
